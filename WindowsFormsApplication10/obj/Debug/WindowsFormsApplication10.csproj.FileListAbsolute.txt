@@ -1,0 +1,36 @@
+c:\users\ณัฎฐกฤตย์\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+c:\users\ณัฎฐกฤตย์\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+c:\users\ณัฎฐกฤตย์\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+c:\users\ณัฎฐกฤตย์\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+c:\users\ณัฎฐกฤตย์\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+c:\users\ณัฎฐกฤตย์\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form2.resources
+c:\users\ณัฎฐกฤตย์\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+c:\users\ณัฎฐกฤตย์\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+c:\users\ณัฎฐกฤตย์\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+c:\users\ณัฎฐกฤตย์\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+c:\users\ณัฎฐกฤตย์\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form3.resources
+c:\users\ณัฎฐกฤตย์\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form4.resources
+C:\Users\ณัฎฐกฤตย์\Documents\Visual Studio 2015\Projects\project NaTTo\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\ณัฎฐกฤตย์\Documents\Visual Studio 2015\Projects\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\ณัฎฐกฤตย์\Documents\Visual Studio 2015\Projects\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\ณัฎฐกฤตย์\Documents\Visual Studio 2015\Projects\project NaTTo\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\ณัฎฐกฤตย์\Documents\Visual Studio 2015\Projects\project NaTTo\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\ณัฎฐกฤตย์\Documents\Visual Studio 2015\Projects\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\ณัฎฐกฤตย์\Documents\Visual Studio 2015\Projects\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\ณัฎฐกฤตย์\Documents\Visual Studio 2015\Projects\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form2.resources
+C:\Users\ณัฎฐกฤตย์\Documents\Visual Studio 2015\Projects\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form3.resources
+C:\Users\ณัฎฐกฤตย์\Documents\Visual Studio 2015\Projects\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form4.resources
+C:\Users\ณัฎฐกฤตย์\Documents\Visual Studio 2015\Projects\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\ณัฎฐกฤตย์\Documents\Visual Studio 2015\Projects\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+E:\project-NaTTo\project NaTTo\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+E:\project-NaTTo\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+E:\project-NaTTo\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+E:\project-NaTTo\project NaTTo\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+E:\project-NaTTo\project NaTTo\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+E:\project-NaTTo\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+E:\project-NaTTo\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+E:\project-NaTTo\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+E:\project-NaTTo\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\ณัฎฐกฤตย์\Downloads\project NaTTo\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\ณัฎฐกฤตย์\Downloads\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\ณัฎฐกฤตย์\Downloads\project NaTTo\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
